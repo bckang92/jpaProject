@@ -1,4 +1,4 @@
-package com.react_jpa.demoPjt;
+package backEnd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
